@@ -1,8 +1,4 @@
 <!-- Emblem section -->
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub Logo" width="100" height="100" style="filter: invert(100%);" />
-</div>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Naufal+Pinandhita;Web3+Developer+in+Training;Blockchain+Enthusiast" alt="Typing SVG" />

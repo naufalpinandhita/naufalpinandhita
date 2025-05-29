@@ -1,7 +1,7 @@
 <!-- Emblem section -->
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub Emblem" width="120" style="filter: brightness(0) invert(1)"/>
-</p>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub Logo" width="100" height="100" style="filter: invert(100%);" />
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

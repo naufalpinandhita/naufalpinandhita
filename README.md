@@ -1,6 +1,6 @@
 <!-- Emblem section -->
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub Emblem" width="120"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub Emblem" width="120" style="filter: brightness(0) invert(1)"/>
 </p>
 
 <h1 align="center">

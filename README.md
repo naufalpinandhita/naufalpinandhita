@@ -5,29 +5,29 @@
   </a>
 </h1>
 
-I'm **Naufal Pinandhita**, a student at **SMKN 2 Kota Magelang** starting my journey to become a Web3 developer!
+I'm **Naufal Pinandhita**, a student at **Vocational High School 2 Magelang** starting my journey to become a developer!
 
 ---
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,js,tailwind,bootstrap,html,css" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" /> 
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP" /> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
 </p>
 
 ---
 
 ### What I'm up to
-- Learning Web3 development as a student at SMKN 2 Kota Magelang
-- Diving into blockchain, smart contracts, and decentralized apps
-- Open to collaboration on open source and Web3 projects
-- Let's talk about web and blockchain development
+- Pursuing my studies at SMK Negeri 2 Magelang, majoring in software engineering
+- Collaborating as a front end developer on the Skanida Apps team
+- Passionate about mastering modern web technologies and building impactful user experiences
 
 ---
 
@@ -52,5 +52,7 @@ I'm **Naufal Pinandhita**, a student at **SMKN 2 Kota Magelang** starting my jou
 > *"Motivasi itu sementara, tapi disiplin dan fokus adalah kunci kemenangan."*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/naufalpinandhita/naufalpinandhita/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/naufalpinandhita/naufalpinandhita/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
+  <img src="https://github.com/naufalpinandhita/naufalpinandhita/blob/output/ocean.gif" alt="Snake animation gif" />
 </p>

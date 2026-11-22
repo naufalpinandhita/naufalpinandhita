@@ -1,7 +1,7 @@
 <!-- Emblem section -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Naufal+Pinandhita;Software+Engineering;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Naufal+Pinandhita;Vibe+Coder;" alt="Typing SVG" />
   </a>
 </h1>
 
